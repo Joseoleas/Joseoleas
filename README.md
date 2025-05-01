@@ -12,7 +12,8 @@ Aunque estoy empezando, me encanta investigar, probar herramientas y escribir so
 
 ## 📚 Recursos que me inspiran   
 - Canales de YouTube: [Midudev], [Fazt], [munoncode], [MoureDev]   
-- Podcasts o Videos: [Inteligencia Artificial], [Gustavo Entrala], [Nate Gentile]  
+- Podcasts o Videos: [Inteligencia Artificial], [Gustavo Entrala], [Nate Gentile]
+- Empresas Tech: [OpenAI], [Anthropic], [Cursor], [Trae] 
 
 ## 💡 Proyectos pequeños (idea)  
 1. **App para estudiantes de Preuniversitarios**  
