@@ -30,13 +30,14 @@ Aunque estoy empezando, me encanta investigar, probar herramientas y escribir so
 
 
 ## 🛠️ Stack Tecnológico  
-Utilicé las siguientes herramientas y tecnologías para desarrollar este proyecto:  
+ 
 
 ![Pila de tecnología](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Pila de tecnología](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Pila de tecnología](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Pila de tecnología](https://img.shields.io/badge/Python-FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue)
-![Pila de tecnología](https://img.shields.io/badge/Pygame-660000?style=for-the-badge&logo=pygame&logoColor=white)
-![Pila de tecnología](https://img.shields.io/badge/Canvas-%2320232a.svg?style=for-the-badge&logo=canvas.js&logoColor=%23fff)
+![Pila de tecnología](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Pila de tecnología](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Pila de tecnología](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
