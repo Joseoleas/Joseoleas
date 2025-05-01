@@ -1,7 +1,7 @@
-# 🌱 !Hola!  
+# 🌱 !Hola mundo!  
 
 ## Sobre mí 
-Soy de Ecuador y que creo que la inteligencia artificial puede transformar el mundo para mejor... y quiero ser parte de eso  
+Soy de Ecuador y soy autodidacta, creo que la inteligencia artificial puede transformar el mundo para mejor... y quiero ser parte de eso  
 Aunque estoy empezando, me encanta investigar, probar herramientas y escribir sobre lo que aprendo.  
 
 ## 🧩 ¿Qué estoy aprendiendo ahora?  
